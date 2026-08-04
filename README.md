@@ -63,12 +63,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NouBou1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NouBou1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NouBou1&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NouBou1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NouBou1&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NouBou1&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

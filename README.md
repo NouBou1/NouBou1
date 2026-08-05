@@ -45,8 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefik.logo.png" height="40" alt="traefik logo"  />
-  <img width="12" />
-  <img src="https://capacitorjs.com/docs/img/meta/favicon.png" height="40" alt="capacitor logo"  />
 </div>
 
 ### Version Control & Collaboration

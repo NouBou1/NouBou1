@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NouBou1/NouBou1/pacman-output/breakout-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NouBou1/NouBou1/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NouBou1/NouBou1/pacman-output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/NouBou1/NouBou1/pacman-output/breakout-contribution-graph.svg">
 </picture>
 
 <h1 align="center">Hi, I'm Nouri 👋</h1>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Right now, I'm focused on building a solid foundation in modern web technologies and learning something new every day.
+  I started with vanilla JavaScript. Right now I'm learning TypeScript, Angular and backend basics, one project at a time.
 </p>
 
 <p align="center">
@@ -24,58 +24,57 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Code à Cuisine](https://github.com/NouBou1/code-a-cuisine) | Recipe app | Angular · TypeScript · Firebase |
+| [PollApp](https://github.com/NouBou1/pollApp) | Create polls, share them and watch results live | Angular · SCSS · Supabase |
+| [SHK-ToolMate](https://github.com/NouBou1/SHK_Toolmate) | 20 calculators and project docs for HVAC work, PWA + Android app · [Live](https://shk-mate.n-boussaada.de) | JavaScript · Capacitor |
+| [Join](https://github.com/NouBou1/join) | Kanban board for tasks, contacts and team workflows | JavaScript · Firebase |
+| [Memory](https://github.com/NouBou1/memory_ts) | Two-player memory card game | TypeScript · Vite · SCSS |
+| [El Pollo Loco](https://github.com/NouBou1/el_pollo_loco) | 2D jump 'n' run in the browser | JavaScript · Canvas |
+
+---
+
 ## 🛠️ Tech Stack
 
-### Languages & Core Technologies
+### Languages
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass" height="40" alt="JavaScript, TypeScript, HTML, CSS, SCSS" />
 </div>
 
-### Frameworks & Tools
+### Frameworks & Backend
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-<!--   
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefik.logo.png" height="40" alt="traefik logo"  />
-  -->
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,firebase,supabase,vite" height="40" alt="Angular, Node.js, Firebase, Supabase, Vite" />
 </div>
 
-### Version Control & Collaboration
+### Tools
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" height="40" alt="Git, GitHub, Docker, VS Code" />
 </div>
 
 ---
 
-## � Connect with me
+## 📫 Connect with me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/noureddin-boussaada/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:n.boussaada92@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://discord.com/users/budhaabirne" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 </div>
 
 ---
 
 <p align="center">
-  <em> Always open to new opportunities and collaborations!</em>
+  <em>Always open to new opportunities and collaborations!</em>
 </p>
